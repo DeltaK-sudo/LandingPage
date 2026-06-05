@@ -151,6 +151,9 @@ ul.links{
 .action {
     padding: 32px 128px;
     flex: 1 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .main{
     background: #3882F6;
@@ -179,7 +182,6 @@ ul.links{
     color: #F9FAF8;
     text-align:center;
     padding: 8px;
-    margin-bottom: 0;
 }
 .main button {
     color: #F9FAF8;
