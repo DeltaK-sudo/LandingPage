@@ -150,6 +150,7 @@ ul.links{
 
 .action {
     padding: 32px 128px;
+    flex: 1 0 auto;
 }
 .main{
     background: #3882F6;
